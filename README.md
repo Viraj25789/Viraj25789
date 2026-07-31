@@ -1,5 +1,27 @@
-## Hi there 👋
+## Welcome To My Place 👋
 
+# Hi, I'm a Python Developer & Data Enthusiast 
+I am a logical, process-driven software engineer focused on backend architecture, data analysis, and 
+exploring AI/ML applications. I build tools that automate workflows and solve practical problems.
+
+### Tech Stack & Tools
+* **Languages:** Python, SQL, JavaScript, HTML/CSS, PHP
+* **Data Science & ML:** Pandas, NumPy, Matplotlib (Exploring: PyTorch, Hugging Face)
+* **Frameworks & Libraries:** FastAPI, Pydantic, Tailwind CSS, Bootstrap
+* **Databases:** MySQL, MongoDB
+* **Tools:** Git, GitHub, VSCode, Docker
+  
+### Featured Projects
+* **[Project Name]** - *Currently in Development* 
+ * *Description:* [1-2 sentence description of what it does and the problem it solves].
+ * *Tech Stack:* [e.g., Python, FastAPI, MySQL]
+* *(More projects coming soon as I build out my portfolio)*
+  
+### Professional Experience
+* **Python Developer Intern** @ Softwings Infotech 
+ * Developed a recommendation system and gained hands-on experience in production 
+environments, team collaboration, and delivering modular tasks on deadline.
+ **Let's Connect:** [Link to your LinkedIn]
 <!--
 **Viraj25789/Viraj25789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
