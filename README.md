@@ -11,11 +11,12 @@ exploring AI/ML applications. I build tools that automate workflows and solve pr
 * **Databases:** MySQL, MongoDB
 * **Tools:** Git, GitHub, VSCode, Docker
   
-### Featured Projects
+<!-- ### Featured Projects
 * **[Project Name]** - *Currently in Development* 
  * *Description:* [1-2 sentence description of what it does and the problem it solves].
  * *Tech Stack:* [e.g., Python, FastAPI, MySQL]
-* *(More projects coming soon as I build out my portfolio)*
+* *(More projects coming soon as I build out my portfolio)* 
+-->
   
 ### Professional Experience
 * **Python Developer Intern** @ Softwings Infotech 
